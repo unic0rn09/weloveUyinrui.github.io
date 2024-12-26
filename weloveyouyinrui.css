@@ -62,7 +62,7 @@
 
     <script>
         function showImage() {
-            alert('THANK YOU HAVE A NICE DAY');
+            alert('just kidding..');
 
             // Create a new image element
             const img = document.createElement('img');
